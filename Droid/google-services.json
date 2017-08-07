@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "975305387519",
+    "firebase_url": "https://notificationhubsample-e39e8.firebaseio.com",
+    "project_id": "notificationhubsample-e39e8",
+    "storage_bucket": "notificationhubsample-e39e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975305387519:android:19ff69e2946a9c30",
+        "android_client_info": {
+          "package_name": "com.xamarin.nhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975305387519-th21s6g2f8mql44e8qsfld530488i5hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3IYUI0pAxxdaX_wy8hH5cxcTU9lIQs3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
